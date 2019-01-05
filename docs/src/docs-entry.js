@@ -59,6 +59,8 @@ export default {
   'loading.zh-CN': () => import('../../packages/loading/zh-CN.md'),
   'locale.en-US': () => import('../../packages/locale/en-US.md'),
   'locale.zh-CN': () => import('../../packages/locale/zh-CN.md'),
+  'model-box.en-US': () => import('../../packages/model-box/en-US.md'),
+  'model-box.zh-CN': () => import('../../packages/model-box/zh-CN.md'),
   'nav-bar.en-US': () => import('../../packages/nav-bar/en-US.md'),
   'nav-bar.zh-CN': () => import('../../packages/nav-bar/zh-CN.md'),
   'notice-bar.en-US': () => import('../../packages/notice-bar/en-US.md'),

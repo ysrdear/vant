@@ -26,6 +26,7 @@ export default {
   'lazyload': () => wrapper(import('../../packages/lazyload/demo'), 'lazyload'),
   'list': () => wrapper(import('../../packages/list/demo'), 'list'),
   'loading': () => wrapper(import('../../packages/loading/demo'), 'loading'),
+  'model-box': () => wrapper(import('../../packages/model-box/demo'), 'model-box'),
   'nav-bar': () => wrapper(import('../../packages/nav-bar/demo'), 'nav-bar'),
   'notice-bar': () => wrapper(import('../../packages/notice-bar/demo'), 'notice-bar'),
   'notify': () => wrapper(import('../../packages/notify/demo'), 'notify'),

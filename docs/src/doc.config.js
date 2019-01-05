@@ -222,6 +222,10 @@ module.exports = {
                 title: 'Panel 面板'
               },
               {
+path:'/model-box',
+title:'ModelBox 展示盒子'              
+},
+              {
                 path: '/progress',
                 title: 'Progress 进度条'
               },
@@ -522,6 +526,9 @@ module.exports = {
                 path: '/panel',
                 title: 'Panel'
               },
+{ path:'/model-box',
+ title:'ModelBox'
+},
               {
                 path: '/progress',
                 title: 'Progress'

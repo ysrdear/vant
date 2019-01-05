@@ -34,6 +34,7 @@ import Lazyload from './lazyload';
 import List from './list';
 import Loading from './loading';
 import Locale from './locale';
+import ModelBox from './model-box';
 import NavBar from './nav-bar';
 import NoticeBar from './notice-bar';
 import Notify from './notify';
@@ -72,7 +73,7 @@ import TreeSelect from './tree-select';
 import Uploader from './uploader';
 import Waterfall from './waterfall';
 
-const version = '0.0.5';
+const version = '0.0.6';
 const components = [
   Actionsheet,
   AddressEdit,
@@ -107,6 +108,7 @@ const components = [
   List,
   Loading,
   Locale,
+  ModelBox,
   NavBar,
   NoticeBar,
   Notify,
@@ -193,6 +195,7 @@ export {
   List,
   Loading,
   Locale,
+  ModelBox,
   NavBar,
   NoticeBar,
   Notify,
